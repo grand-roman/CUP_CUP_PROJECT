@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+Thumbs.db
+vendor
+
+
+config.php
+
+uploads/*
+!uploads/.gitkeep
